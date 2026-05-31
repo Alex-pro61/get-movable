@@ -1,6 +1,5 @@
 # get-movable
 Learn Dutch for real life — AI tutor, NT2 prep, SRS vocabulary. Free to start
-Topics: `dutch`, `language-learning`, `nt2`, `ai`, `pwa`, `spaced-repetition`
 # 🗣️ Movable — Learn Dutch for Real Life
 
 > **Learn Dutch. Your way.**
