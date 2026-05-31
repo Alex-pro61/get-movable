@@ -17,7 +17,17 @@ Learn Dutch for real life — AI tutor, NT2 prep, SRS vocabulary. Free to start
 🌐 **[Try it free → get-movable.com](https://get-movable.com)**
 
 ---
+## 📸 Screenshots
 
+| Landing Page | Pricing |
+|---|---|
+| ![Hero](screenshots/hero.png) | ![Pricing](screenshots/pricing.png) |
+
+| Dashboard (after login) | Vocabulary flashcards |
+|---|---|
+| ![Dashboard](screenshots/dashboard.png) | ![Vocabulary](screenshots/vocabulary.png) |
+
+---
 ## 🎯 Who is Movable for?
 
 | Profile | Description |
@@ -118,6 +128,9 @@ Most learners reach NT2 B1 in **6–12 months** with 60–90 minutes of daily pr
 
 > *"I connected my own OpenAI key and got unlimited AI conversations. Cheaper than a single hour with a private tutor."*
 > — **Nguyen T.**, Software developer · Eindhoven
+
+> *"Pomodoro, Ebbinghaus repetition, word frequency — Movable is genuinely built on science. I study every day and actually see progress."*
+> — **Iryna M.**, University student · Groningen
 
 ---
 
